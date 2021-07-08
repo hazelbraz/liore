@@ -1,0 +1,4 @@
+baseURL = "https://liore.pages.dev"
+languageCode = "en-us"
+title = "liore"
+theme = "tale"
